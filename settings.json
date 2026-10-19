@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FracturecraftSMP.aternos.me",
-    "port": 30167,
-    "version": "26.1.2",
+    "ip": "rafellon006.aternos.me",
+    "port": 44424,
+    "version": "0.19.5",
     "try-creative": false
   },
   "position": {
